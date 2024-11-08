@@ -4,7 +4,7 @@ class Skolotajs:
         self.uzvards = uzvards
         self.stundu_sk_nedela = stundu_sk_nedela
         self.tips = tips
-        self.tipssk = tipssk
+        #self.tipssk = tipssk
 
     def idrukat(self):
         pass
